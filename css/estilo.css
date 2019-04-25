@@ -1,0 +1,21 @@
+.copyright{
+    margin-top: 100px;
+}
+.icone{
+    font-size:50px;
+    color: white;
+}
+.facebook:hover{
+    color:#2a418d;
+}
+.twitter:hover{
+    color: rgba(29,161,242,1.00);
+}
+.instagram:hover{
+    color: mediumvioletred;
+}
+.footer{
+    background-color: black;
+    height: 250px;
+    margin-top: 30px;
+}
